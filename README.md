@@ -1,2 +1,2 @@
-# TFB-WebGL
-A repository to host GitHub Pages for Tiny Factory Builder
+# Tiny Factory Builder
+This is the repository to host Tiny Factory Builder in GitHub Pages.
